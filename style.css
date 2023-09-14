@@ -1,0 +1,33 @@
+
+
+
+    .gojo{
+      width: 100%;
+      border: 5px solid antiquewhite;
+
+
+    }
+
+    h1{
+      
+      text-transform: uppercase;
+      font-size: 3rem;
+
+
+    }
+
+    body{
+        background-color: black;
+    }
+
+    .meme {
+        font-family: 'Libre Baskerville', serif;
+      color: antiquewhite;
+      background-color: black;
+      text-align: center;
+      margin-top: 100px;
+      width: 50%;
+      margin-left: 25%;
+
+
+    }
